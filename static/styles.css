@@ -1,0 +1,34 @@
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.chat-bubble {
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 10px 15px;
+    margin: 5px 10px;
+    max-width: 70%;
+}
+
+.ai-bubble {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.human-bubble {
+    background-color: #DFF2E1;
+    border-radius: 20px;
+    color: black;
+}
+
+.chat-icon {
+    border-radius: 5px;
+    width: 32px;
+    height: 32px;
+}
