@@ -16,7 +16,7 @@ The **AMU Admission Query Chatbot** is a conversational AI tool designed to assi
 
 ## Key Components
 ### Dataset
-- **Sources**:
+- **[Sources](https://github.com/faiz468/amuchat/tree/main/data)**:
   - Official guides and rulebooks provided by AMU.
   - Specific documents for various admission programs.
 - **Processing**:
@@ -57,7 +57,7 @@ Ensure that you have the following installed:
 
 ### Steps to Install and Run
 
-#### 1. Clone the Repository
+1. Clone the Repository
 Use the following command to clone the repository to your local machine:
 ```bash
 git clone https://github.com/faiz468/amuchat.git
