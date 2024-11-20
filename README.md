@@ -1,7 +1,9 @@
 # AMU Admission Query Chatbot
 
 The **AMU Admission Query Chatbot** is a conversational AI tool designed to assist students with queries related to the admission procedures at **Aligarh Muslim University (AMU)**. This chatbot leverages **RAG (Retrieval-Augmented Generation)** architecture to provide accurate and context-aware answers based on official admission documents.
-![Image]([https://github.com/faiz-mubeen/Multi-Lingual-Legal-Question-Answering-System/blob/main/data/perf_comparison.png](https://github.com/faiz468/amuchat/blob/main/static/demonstration.png))
+![Image](https://github.com/faiz-mubeen/Multi-Lingual-Legal-Question-Answering-System/blob/main/data/perf_comparison.png](https://github.com/faiz468/amuchat/blob/main/static/demonstration.png)
+---
+
 ## Features
 - **Comprehensive Coverage**: Answers questions about admissions, courses, and university policies.
 - **Document Integration**: Utilizes official guides such as:
